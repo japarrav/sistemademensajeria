@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+/*.container{
+    display: flex;
+    justify-content: space-around;
+}*/
+
+.aside{
+    background-color: antiquewhite;
+    width: 15%;
+    min-height: 100vh;
+}
+
+.main{
+    background-color: yellowgreen;
+    width: 85%;
+    min-height: 100vh;
+}
